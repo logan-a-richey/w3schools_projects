@@ -20,7 +20,6 @@ Basics
     structures
     enums
     references
-    
     pointers
     functions
     function params
@@ -36,20 +35,21 @@ oop
     encapsulation
     inheritance
     polymorphism
-file reading and writing
-exception handling
-date, time, and random
+    file reading and writing
+    exception handling
+    date, time, and random
 
-data structures and standard template library
-vecors
-list
-stack
-queue
-deque
-set
-map
-iterators
-algoritms
+data structures
+    data structures & STL
+    vector
+    list
+    stack
+    queue
+    deque
+    set
+    map
+    iterators
+    algoritms
 
 C++ Keywords
 C++ <iostream>
