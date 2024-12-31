@@ -29,7 +29,7 @@ Everything in Java is OOP.
 Let's create a Main class with several example functions to envoke.
 */
 
-public class Main {
+public class Demo_01_Basic_Syntax {
     // Example for Java "Hello World" / System.out.println()
     public static void example_01() {
         System.out.println("Hello, World!");

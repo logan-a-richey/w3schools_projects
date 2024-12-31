@@ -26,7 +26,7 @@ import java.util.regex.*;  // Import for Regex
 import java.text.*;  // Import for Date formatting
 
 // Main Class to demonstrate User IO and Data Structures concepts
-public class UserIODemo {
+public class Demo_04_Data_Structures {
 
     public static void main(String[] args) {
         // Call methods for each concept example

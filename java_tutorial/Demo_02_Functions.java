@@ -12,7 +12,7 @@ Java scope
 Java recursion
 */
 
-public class FunctionsDemo {
+public class Demo_02_Functions {
 
     // Method to greet the user
     static void greet(String name) {

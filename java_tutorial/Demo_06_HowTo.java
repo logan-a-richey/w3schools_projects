@@ -25,7 +25,7 @@ Random Number
 
 import java.util.*;  // Import for ArrayList, HashMap, etc.
 
-public class JavaHowTo {
+public class Demo_06_HowTo {
 
     public static void main(String[] args) {
         // Call methods for each Java "How To" operation

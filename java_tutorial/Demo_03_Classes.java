@@ -75,7 +75,7 @@ class Car extends Vehicle {
 }
 
 // Main Class to demonstrate OOP concepts
-public class OOPDemo {
+public class Demo_03_Classes {
 
     public static void main(String[] args) {
         // Call methods for each OOP concept example

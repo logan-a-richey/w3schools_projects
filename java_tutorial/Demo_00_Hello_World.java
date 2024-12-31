@@ -96,57 +96,10 @@ Square Root
 Random Number
 */
 
-public class Main{
-    public static void example_00(String[] args){
-        
-    }
-    
-
+public class Demo_00_Hello_World{
     public static void main(String[] args){
-        //example_00();
-        
-        // printing to stdout
         System.out.println("Hello, World.");
         System.out.println("I am learning Java.");
-        
-        System.out.print("It is awesome! ");
-        System.out.print("This will print on the same line.\n");
-        
-        System.out.println(3); // we can print numbers
-        System.out.println(3 + 3); // we can do calculations
-        
-        // different data types:
-        int myNum = 5;
-        float myFloatNum = 5.99f;
-        char myLetter = 'D';
-        boolean myBool = true;
-        String myText = "Hello"
-        System.out.println(myText + " " + myNum) // combining string and numbers in a print statement
-        
-        /*
-        byte    : Stores whole numbers from -128 to 127
-        short   : Stores whole numbers from -32,768 to 32,767
-        int     : Stores whole numbers from -2,147,483,648 to 2,147,483,647
-        long    : Stores whole numbers from -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807
-        float   : Stores fractional numbers. Sufficient for storing 6 to 7 decimal digits
-        double  : Stores fractional numbers. Sufficient for storing 15 to 16 decimal digits
-        boolean : Stores true or false values
-        char    : Stores a single character/letter or ASCII values
-        */
-        
-        // scientific numbers
-        float f1 = 35e3f;
-        double d1 = 12E4d;
-        System.out.println(f1);
-        System.out.println(d1);
-        
-        // booleans
-        boolean isJavaFun = true;
-        boolean isFishTasty = false;
-        System.out.println(isJavaFun);     // Outputs true
-        System.out.println(isFishTasty);   // Outputs false
-
-
-
     }
 }
+

@@ -13,7 +13,7 @@ Java Delete Files
 
 import java.io.*;  // Import for File, FileWriter, FileReader, BufferedReader, etc.
 
-public class FileIODemo {
+public class Demo_05_FileIO {
 
     public static void main(String[] args) {
         // Call methods for each File IO operation
